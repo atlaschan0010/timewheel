@@ -1,7 +1,7 @@
 # ⏱️ Adaptive Hybrid Timer Scheduler (AHTS)
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/atlaschan000/timewheel.svg)](https://pkg.go.dev/github.com/atlaschan000/timewheel)
-[![Go Report Card](https://goreportcard.com/badge/github.com/atlaschan000/timewheel)](https://goreportcard.com/report/github.com/atlaschan000/timewheel)
+[![Go Reference](https://pkg.go.dev/badge/github.com/atlaschan0010/timewheel.svg)](https://pkg.go.dev/github.com/atlaschan0010/timewheel)
+[![Go Report Card](https://goreportcard.com/badge/github.com/atlaschan0010/timewheel)](https://goreportcard.com/report/github.com/atlaschan0010/timewheel)
 
 自适应混合定时调度器 —— 一种面向高并发在线服务的高性能定时任务调度方案。
 
@@ -77,7 +77,7 @@
 ## 📦 安装
 
 ```bash
-go get github.com/atlaschan000/timewheel
+go get github.com/atlaschan0010/timewheel
 ```
 
 **要求：** Go 1.22+
@@ -90,7 +90,7 @@ package main
 import (
     "fmt"
     "time"
-    "github.com/atlaschan000/timewheel"
+    "github.com/atlaschan0010/timewheel"
 )
 
 func main() {

@@ -5,7 +5,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/atlaschan000/timewheel"
+	"github.com/atlaschan0010/timewheel"
 )
 
 func ExampleScheduler() {
